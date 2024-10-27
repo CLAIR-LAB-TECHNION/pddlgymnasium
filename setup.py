@@ -4,7 +4,7 @@ setup(name='pddlgymnasium',
       version='0.0.0',
       install_requires=[
             'matplotlib',
-            'pillow>=8,<10',
+            'pillow',
             'gymnasium<1.0.0',
             'imageio',
             'networkx',
